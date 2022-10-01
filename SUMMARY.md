@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is ChatBot?](README.md)
+* [❓ About](README.md)
 
 ## Getting Started - Guide <a href="#guide" id="guide"></a>
 
