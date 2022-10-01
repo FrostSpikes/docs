@@ -5,8 +5,8 @@
 ## Getting Started - Guide <a href="#guide" id="guide"></a>
 
 * [Getting Started](guide/getting-started.md)
-* [Setting Up ChatBot](guide/setting-up-chatbot.md)
-* [The Network](guide/the-network.md)
+* [Setting Up ChatBot](guide/setup.md)
+* [The Network](guide/network.md)
 
 ## Important Information
 
