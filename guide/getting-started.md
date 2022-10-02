@@ -8,22 +8,18 @@ description: >-
 
 ## Before We Begin...
 
+We ask that you double-check if you have given ChatBot the right permissions. If you do not wish to give it all the permissions, make sure it has `Manage Messages`, `Embed Links` and `Send Messages` permission.
+
 {% hint style="warning" %}
 The Discord bot we offer is not an AI bot, but a bot that allows you to communicate with other real Discord servers!
 {% endhint %}
 
-We ask you to double-check if you have given ChatBot the right permissions. If you do not wish to give it all the permissions, make sure it has `Manage Messages`, `Embed Links` and `Send Messages` permission.
-
-## Sneak Peaks!
+## Features!
 
 If you are still unsure if ChatBot is the right bot for you, here are some pictures showcasing its features! :smile:
 
-#### Talking to other users who use chatbot from the safety of your own server!
+<figure><img src="../.gitbook/assets/Discord_C6kFpzJahC.png" alt=""><figcaption><p>Talking to other servers who use the bot from the safety of your own server!</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Discord_C6kFpzJahC.png" alt=""><figcaption><p>Messages in the network, going to other connected servers.</p></figcaption></figure>
-
-#### Network Actions&#x20;
-
-<figure><img src="../.gitbook/assets/Discord_7jDfwO25Z8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Discord_7jDfwO25Z8.png" alt=""><figcaption><p>Network Actions</p></figcaption></figure>
 
 ...and more
