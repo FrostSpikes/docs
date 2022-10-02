@@ -2,7 +2,7 @@
 
 * [❓ About](README.md)
 
-## Getting Started - Guide <a href="#guide" id="guide"></a>
+## Guide
 
 * [Getting Started](guide/getting-started.md)
 * [Setting Up ChatBot](guide/setup.md)
