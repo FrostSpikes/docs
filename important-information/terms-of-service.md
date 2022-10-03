@@ -1,5 +1,5 @@
 ---
-description: 'Last updated: August 12, 2022'
+description: 'Last updated: Oct 3, 2022'
 ---
 
 # Terms Of Service
@@ -32,7 +32,9 @@ By inviting the Bot You agree to be bound by these Terms and Conditions. If You 
 
 ## Termination
 
-We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
+We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.\
+\
+In addition, violating the ChatBot Guidelines will terminate your access.
 
 Upon termination, Your right to use the Bot will cease immediately.
 

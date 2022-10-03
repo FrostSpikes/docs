@@ -1,5 +1,5 @@
 ---
-description: 'Last updated: August 12, 2022'
+description: 'Last updated: Oct 3, 2022'
 ---
 
 # Privacy Policy
