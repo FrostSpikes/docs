@@ -6,7 +6,7 @@
 
 * [Getting Started](guide/getting-started.md)
 * [Setting Up ChatBot](guide/setup.md)
-* [The Network](guide/network.md)
+* [The Network](guide/the-network.md)
 
 ## Important Information
 
