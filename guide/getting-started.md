@@ -13,7 +13,3 @@ We ask that you double-check if you have given ChatBot the right permissions. If
 {% hint style="warning" %}
 The Discord bot we offer is not an AI bot, but a bot that allows you to communicate with other real Discord servers!
 {% endhint %}
-
-Once you have set chatbot up. etc etc...
-
-...and more
