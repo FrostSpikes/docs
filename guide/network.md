@@ -14,7 +14,7 @@ Once you have finished [setup.md](getting-started/setup.md "mention"), you shoul
 
 &#x20;Here is a picture of how it might look like to other servers:
 
-<figure><img src="../.gitbook/assets/Discord_1LpRFEAcGJ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Reporting messages/Users
 
