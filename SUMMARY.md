@@ -4,7 +4,7 @@
 
 ## Guide
 
-* [Getting Started](guide/getting-started/README.md)
+* [Getting Started](guide/getting-started.md)
   * [Setting Up ChatBot](guide/getting-started/setup.md)
 * [Network](guide/network.md)
 * [Next Steps](guide/next-steps.md)

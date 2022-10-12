@@ -20,9 +20,7 @@ If you are still unsure if ChatBot is the right bot for you, here are some pictu
 
 <summary>Protected by our own AutoMod.</summary>
 
-We have our own anti-spam system that protects the Network from being spammed. ChatBot also provides you with its own profanity filter to censor and/or ban users for use of extremely vulger words.
-
-
+We protect the Network from spam with our anti-spam system. A profanity filter is also included in ChatBot to censor or ban users who use extremely vulgar words.
 
 </details>
 
