@@ -1,10 +1,8 @@
 # Table of contents
 
-* [❓ About](README.md)
-
 ## Guide
 
-* [Getting Started](guide/getting-started.md)
+* [Getting Started](README.md)
   * [Setting Up ChatBot](guide/getting-started/setup.md)
 * [Network](guide/network.md)
 * [Next Steps](guide/next-steps.md)

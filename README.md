@@ -1,41 +1,15 @@
-# ❓ About
+---
+description: >-
+  This guide will teach you how you can get started with using ChatBot for your
+  server. And also introduce you to many more fun features.
+---
 
-## What does ChatBot do?
+# Getting Started
 
-ChatBot lets you chat with different communities and servers from the comfort of your own server. Providing you with a suitable environment where you can communicate with members of different servers.
+## Before We Begin...
 
-## Why ChatBot?
+We ask that you double-check if you have given ChatBot the right permissions. If you do not wish to give it all the permissions, make sure it has `Manage Messages`, `Embed Links` and `Send Messages` permission.
 
-If you are still unsure if ChatBot is the right bot for you, here are some pictures showcasing its features! :smile:
-
-<details>
-
-<summary>The Network</summary>
-
-<img src=".gitbook/assets/image (3).png" alt="People from different servers talking in the network." data-size="original"><img src=".gitbook/assets/image (2).png" alt="Network Actions" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Protected by our own AutoMod.</summary>
-
-We protect the Network from spam with our anti-spam system. A profanity filter is also included in ChatBot to censor or ban users who use extremely vulgar words.
-
-</details>
-
-<details>
-
-<summary>Earnable Badges</summary>
-
-Soon.
-
-</details>
-
-<details>
-
-<summary>Levelling</summary>
-
-Soon.
-
-</details>
+{% hint style="warning" %}
+The Discord bot we offer is not an AI bot, but a bot that allows you to communicate with other real Discord servers!
+{% endhint %}
