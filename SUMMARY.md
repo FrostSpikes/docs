@@ -4,9 +4,10 @@
 
 ## Guide
 
-* [Getting Started](guide/getting-started.md)
-* [Setting Up ChatBot](guide/setup.md)
-* [The Network](guide/the-network.md)
+* [Getting Started](guide/getting-started/README.md)
+  * [Setting Up ChatBot](guide/getting-started/setup.md)
+* [Network](guide/network.md)
+* [Next Steps](guide/next-steps.md)
 
 ## Important Information
 

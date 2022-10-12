@@ -1,12 +1,8 @@
 # ❓ About
 
-## What is ChatBot?
+## What does ChatBot do?
 
 ChatBot lets you chat with different communities and servers from the comfort of your own server. Providing you with a suitable environment where you can communicate with members of different servers.
-
-## What Does ChatBot do?
-
-ChatBot allows you to talk to members of other Discord servers and communities from your own! Like a telephone that broadcasts your message to connected servers! We call it the inter-server chat, or network for short.
 
 ## Why ChatBot?
 
@@ -22,9 +18,19 @@ If you are still unsure if ChatBot is the right bot for you, here are some pictu
 
 <details>
 
+<summary>Protected by our own AutoMod.</summary>
+
+We have our own anti-spam system that protects the Network from being spammed. ChatBot also provides you with its own profanity filter to censor and/or ban users for use of extremely vulger words.
+
+
+
+</details>
+
+<details>
+
 <summary>Earnable Badges</summary>
 
-
+Soon.
 
 </details>
 
@@ -32,17 +38,6 @@ If you are still unsure if ChatBot is the right bot for you, here are some pictu
 
 <summary>Levelling</summary>
 
-
-
-</details>
-
-<details>
-
-<summary>Anti-Spam</summary>
-
-
+Soon.
 
 </details>
-
-
-
