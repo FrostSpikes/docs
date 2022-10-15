@@ -7,7 +7,7 @@
 * [Network](guide/network.md)
 * [Next Steps](guide/next-steps.md)
 
-## Important Information
+## Important Information <a href="#important" id="important"></a>
 
-* [Privacy Policy](important-information/privacy-policy.md)
-* [Terms Of Service](important-information/terms-of-service.md)
+* [Privacy Policy](important/privacy.md)
+* [Terms Of Service](important/terms.md)
