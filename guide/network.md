@@ -10,7 +10,7 @@ Network refers to the entire network of servers that are connected. In this area
 
 ### Using the Network
 
-Once you have finished [setup.md](getting-started/setup.md "mention"), you should be able to send a message in the set-up channel. When the message is sent the bot sends the message to all other channels connected to the network.
+Once you have finished [setup.md](getting-started/setup.md "mention"), you should be able to send a message in the set-up channel. When your message is sent, ChatBot sends it to connected servers across the network.
 
 &#x20;Here is a picture of how it might look like to other servers:
 

@@ -8,4 +8,4 @@ The ChatBot Team is recruiting! You can now apply for the role of Network modera
 2. If you see any bugs in the chat or people using vulgar language, please report them to the developers using `/support report <report_here>`.
 3. If you have suggestions for the bot, use the `/support suggest <suggestion_here>` command!
 4. If you have further queries, please join the [support server](https://discord.gg/8NzFveeWTQ).
-5. Please join us in improving this wiki if you are interested! You can contribute to this wiki by checking out our GitHub page!
+5. Please help us in improving this wiki if you are interested! You can contribute to this wiki on our GitHub page!
