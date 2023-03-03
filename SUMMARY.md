@@ -1,13 +1,23 @@
 # Table of contents
 
+* [Getting Started](README.md)
+
 ## Guide
 
-* [Getting Started](README.md)
-  * [Setting Up ChatBot](guide/getting-started/setup.md)
-* [Network](guide/network/README.md)
-  * [Replying to a message](guide/network/replying-to-a-message.md)
-  * [Deleting messages](guide/network/deleting-messages.md)
+* [Setting Up InterChat](guide/setup.md)
 * [Next Steps](guide/next-steps.md)
+
+***
+
+* [The Network](network/README.md)
+  * [Replying to a message](network/replying-to-a-message.md)
+  * [Deleting messages](network/deleting-messages.md)
+
+## Commands
+
+* [Setup](commands/setup.md)
+* [Support](commands/support.md)
+* [Warns](commands/warns.md)
 
 ## Important Information <a href="#important" id="important"></a>
 

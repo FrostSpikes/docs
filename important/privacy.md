@@ -16,8 +16,8 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of this Privacy Policy:
 
-* **Application** means the Discord bot by the Company used by You, named ChatBot
-* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to ChatBot.
+* **Application** means the Discord bot by the Company used by You, named InterChat
+* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to InterChat.
 * **Personal Data** is any information that relates to an identified or identifiable individual.
 * **Bot** Alias for the Application.
 * **Service** refers to the Application.

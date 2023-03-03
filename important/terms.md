@@ -4,7 +4,7 @@ description: 'Last updated: Oct 3, 2022'
 
 # Terms Of Service
 
-Please read these terms and conditions carefully before using ChatBot.
+Please read these terms and conditions carefully before using InterChat.
 
 ## Interpretation and Definitions
 
@@ -16,11 +16,11 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of these Terms and Conditions:
 
-* **ChatBot** means the Discord Bot provided by the Company Invited by the Server Manager to any Discord Server, named ChatBot.
+* InterChat means the Discord Bot provided by the Company Invited by the Server Manager to any Discord Server, named InterChat.
 * **Server Manager** refers to anyone with Manage Server permissions in a Discord Server.
-* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to ChatBot.
-* **Bot** refers to ChatBot.
-* **You** mean the individual using ChatBot.
+* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to InterChat.
+* **Bot** refers to InterChat.
+* **You** mean the individual using InterChat.
 
 ## Acknowledgment
 
@@ -34,21 +34,21 @@ By inviting the Bot You agree to be bound by these Terms and Conditions. If You 
 
 We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.\
 \
-In addition, violating the ChatBot Guidelines will terminate your access.
+In addition, violating the InterChat Guidelines will terminate your access.
 
 Upon termination, Your right to use the Bot will cease immediately.
 
 ## Age Requirement
 
-Anyone under the age listed in [Discord's Terms of Service](https://discord.com/terms) may not use ChatBot.
+Anyone under the age listed in [Discord's Terms of Service](https://discord.com/terms) may not use InterChat.
 
 ## Limitation of Liability
 
-In no event will the Bot's owner be held liable for individuals breaking these Terms. It is the end-users responsibility to be aware of the rules and regulations of ChatBot and Discord and to abide by them.
+In no event will the Bot's owner be held liable for individuals breaking these Terms. It is the end-users responsibility to be aware of the rules and regulations of InterChat and Discord and to abide by them.
 
 We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 10 days notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
 
-By continuing to access or use Our Bot after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using ChatBot.
+By continuing to access or use Our Bot after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using InterChat.
 
 ## Contact Us
 
