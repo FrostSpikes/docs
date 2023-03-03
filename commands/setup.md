@@ -21,8 +21,8 @@ Choose the channel you want to connect to the chat network using the InterChat s
 * `/setup channel <channel>`
 {% endtab %}
 
-{% tab title="View" %}
-This  subcommand allows you to view and edit your current network connection settings, allowing you to customize the look and feel of the interface, and other options.
+{% tab title="Edit" %}
+This subcommand allows you to view and edit your current network connection settings, allowing you to customize the look and feel of the interface, and other options.
 {% endtab %}
 
 {% tab title="Reset" %}
