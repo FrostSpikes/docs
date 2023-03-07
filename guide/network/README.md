@@ -1,8 +1,8 @@
 ---
-description: Information about the ChatBot Network, and how it works.
+description: Information about InterChat's Network, and how it works.
 ---
 
-# Network
+# The Network
 
 ### How does it work?
 
@@ -10,11 +10,11 @@ Network refers to the entire network of servers that are connected. In this area
 
 ### Using the Network
 
-Once you have finished [setup.md](../getting-started/setup.md "mention"), you should be able to send a message in the set-up channel. When your message is sent, ChatBot sends it to connected servers across the network.
+Once you have finished [setup.md](../setup.md "mention"), you should be able to send a message in the set-up channel. When your message is sent, InterChat sends it to connected servers across the network.
 
 &#x20;Here is a picture of how it might look like to other servers:
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Reporting messages/Users
 
