@@ -1,5 +1,5 @@
 ---
-description: 'Last updated: Oct 3, 2022'
+description: 'Last updated: March 3, 2023'
 ---
 
 # Terms Of Service
