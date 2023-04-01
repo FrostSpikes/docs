@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Getting Started](README.md)
-
 ## Guide
 
+* [Getting Started](README.md)
 * [Setting Up InterChat](guide/setup.md)
 * [The Network](guide/network/README.md)
   * [Replying to a message](guide/network/replying-to-a-message.md)
