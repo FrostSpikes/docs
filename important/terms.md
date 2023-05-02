@@ -47,7 +47,7 @@ Anyone under the age listed in [Discord's Terms of Service](https://discord.com/
 1. No NSFW/NSFL content: Users are not allowed to share any content that is sexually explicit or violent in nature.
 2. No harassment: Any form of harassment, including hate speech, threats, or bullying is prohibited.
 3. No spamming: Users are prohibited from sending spam messages, such as excessive links or repetitive messages.
-4. No illegal activities: Your bot cannot be used for any illegal activities, such as sharing pirated content or conducting phishing scams.
+4. No illegal activities: Our bot cannot be used for any illegal activities, such as sharing pirated content or conducting phishing scams.
 5. Respect others: Users must respect the privacy and rights of other users and are prohibited from sharing personal information without permission.
 6. You agree to adhere to Discord's \[Terms of Service]\([https://discord.com/terms](https://discord.com/terms)) and \[Community Guidelines]\([https://discord.com/guidelines](https://discord.com/guidelines)) when using the Bot. Any violation of these terms may result in your immediate suspension or termination of your access to the bot, at our sole discretion.
 
