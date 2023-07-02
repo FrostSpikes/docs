@@ -3,7 +3,6 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - retype-test
       - main
 
 jobs:
