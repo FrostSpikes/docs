@@ -14,7 +14,7 @@ Once you have finished [setup.md](../setup.md "mention"), you should be able to 
 
 &#x20;Here is a picture of how it might look like to other servers:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Reporting messages/Users
 

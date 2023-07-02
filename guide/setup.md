@@ -30,6 +30,6 @@ If you wish to reset your setup and no longer use the InterChat network, use the
 
 _Learn more about the setup command on the_ [setup.md](../commands/setup.md "mention")_page._
 
-{% hint style="success" %}
+!!!success
 If you wish to edit your setup after setting InterChat up for the first time, use the `/setup edit` command!&#x20;
-{% endhint %}
+!!!
