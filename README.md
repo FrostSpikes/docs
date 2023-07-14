@@ -2,11 +2,15 @@
 icon: home
 ---
 
+!!!danger
+The documentation and guide are currently being rewritten. Most content here is outdated! Please help us rewrite this documentation by contributing over at [our github](https://github.com/Discord-InterChat/docs)!
+!!!
+
 # What is InterChat?
 
 #### InterChat: Connecting Servers like never before
 
-InterChat is a powerful Discord bot that enables seamless communication between servers. With InterChat, you can chat with members from other servers in real-time without ever having to leave your own server.
+InterChat is a powerful Discord bot that enables seamless communication between servers. With InterChat, you can chat with members from other servers in real time without ever having to leave your own server.
 
 Whether you want to collaborate with other communities, join forces for special events, or simply connect with like-minded people from around the world!
 
