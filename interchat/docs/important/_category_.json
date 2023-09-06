@@ -1,0 +1,8 @@
+{
+  "label": "Important",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Legal stuff that you should probably be aware of."
+  }
+}
