@@ -1,35 +1,41 @@
----
-icon: home
----
+# Website
 
-!!!danger
-The documentation and guide are currently being rewritten. Most content here is outdated! Please help us rewrite this documentation by contributing over at [our github](https://github.com/Discord-InterChat/docs)!
-!!!
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-# What is InterChat?
+### Installation
 
-#### InterChat: Connecting Servers like never before
+```
+$ yarn
+```
 
-InterChat is a powerful Discord bot that enables seamless communication between servers. With InterChat, you can chat with members from other servers in real time without ever having to leave your own server.
+### Local Development
 
-Whether you want to collaborate with other communities, join forces for special events, or simply connect with like-minded people from around the world!
+```
+$ yarn start
+```
 
-Some of the key ups of having InterChat include:
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-* **Safe**: To maintain privacy of your conversations, we do not store any content of the messages sent between servers in our database.
-* **Easy-to-use**: InterChat is user-friendly and can be set up in just a few minutes.
-* **Customizable**: You have the freedom to choose from different display modes such as compact, embedded, and webhooks, to customize the appearance of your chat messages and align them with your server's branding.
-* **Frequently Updated**: InterChat is regularly updated with new features to enhance its functionality and performance.
-* **Flexible**: InterChat is highly adaptable and can be used in a variety of ways, from one-on-one conversations to large-scale group chats.
+### Build
 
-## Installation
+```
+$ yarn build
+```
 
-To use our bot, you'll first need to invite it to your server. To do this, you'll need to have the `Manage Server` permission in your Discord server. Once you have this permission, follow these steps:
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-1. First, use [this link](https://dsc.gg/interchat) to invite InterChat to your server.
-2. Select the server you want to invite the bot to and click "Authorize."
-3. Follow any additional prompts to give the bot the necessary permissions.
+### Deployment
 
-!!!danger
-We ask that you double-check if InterChat has **Manage Messages**, **Embed Links** and **Send Messages** permissions. If the bot does not have these permissions, it will not be able to function properly and may cause issues during the setup process.
-!!!
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
