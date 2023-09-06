@@ -14,7 +14,7 @@ const config = {
   url: 'https://discord-interchat.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docs/',
+  baseUrl: '/docs',
   trailingSlash: false,
 
   // GitHub pages deployment config.
@@ -62,7 +62,7 @@ const config = {
       },
   
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/banner.jpg',
       navbar: {
         title: 'InterChat Docs',
         logo: {
