@@ -1,8 +1,4 @@
----
-description: Information about InterChat's Network, and how it works.
----
-
-# The Network
+  # The Network
 
 ### How does it work?
 
@@ -17,7 +13,3 @@ Here is a picture of how it might look like to other servers:
 ![Message Example](/img/message.png)
 
 <!-- <figure><img src="../../assets/image (1).png" alt=""><figcaption></figcaption></figure> -->
-
-### Reporting messages/Users
-
-Use the `Report` context menu by **right-clicking** a message you wish to report. Note that, messages sent outside the network channel (the channel that is selected to recieve messages from the hub) will not work. Or, to report anything else use the `/support report` slash command.
