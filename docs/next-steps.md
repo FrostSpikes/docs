@@ -6,7 +6,7 @@ description: >-
 
 # Congratulations!
 
-You have successfully set up InterChat in your server! Here are some next steps you can take:
+With this, you're ready to explore hubs, both public and private. Join discussions, make friends, and enjoy your time in InterChat! If you have any questions or need assistance, feel free to ask in your hub or contact support. Here are some next steps you can take:
 
 1. Want to explore more options? Type in `/help` for a list of available commands and `/help <command>` to learn more about a specific command!
 2. If you encounter any bugs in the chat or come across any inappropriate language usage, kindly report them to us by using the `/support report` command.

@@ -39,5 +39,3 @@ It is recommended that you give InterChat **Manage Messages**, **Embed Links** a
 
 ## Hubs - What is it?
 Think of a hub as your own chat space within InterChat. It's like having your personal ship dock where other servers can come in and chat exclusively with other servers in that hub. You can create your own hub or join hubs created by others. Let's get started!
-
-With this, you're ready to explore hubs, both public and private. Join discussions, make friends, and enjoy your time in InterChat! If you have any questions or need assistance, feel free to ask in your hub or contact support. Happy chatting! 😊
