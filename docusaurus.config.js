@@ -95,7 +95,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/Discord-InterChat/docs',
+                href: 'https://github.com/Discord-InterChat',
               },
             ],
           },
