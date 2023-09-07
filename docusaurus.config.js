@@ -41,7 +41,6 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/Discord-InterChat/docs/tree/main/',
@@ -61,7 +60,6 @@ const config = {
         respectPrefersColorScheme: true,
       },
   
-      // Replace with your project's social card
       image: 'img/banner.jpg',
       navbar: {
         title: 'InterChat Docs',
@@ -77,6 +75,11 @@ const config = {
           //   label: 'Docs',
           // },
           {
+            href: 'https://dsc.gg/interchat',
+            label: 'Invite',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/Discord-InterChat/docs',
             label: 'GitHub',
             position: 'right',
@@ -91,7 +94,11 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/YygGYA6zhX',
+                href: 'https://dsc.gg/interchat-support',
+              },
+              {
+                href: 'https://dsc.gg/interchat',
+                label: 'Invite',
               },
               {
                 label: 'GitHub',
