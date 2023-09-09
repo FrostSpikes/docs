@@ -4,9 +4,9 @@ id: home
 slug: /
 ---
 
-# What is InterChat?
+# Getting Started
 
-:::danger
+:::caution
 The documentation and guide are currently being rewritten. Most content here is outdated! Please help us rewrite this documentation by contributing over at [our github](https://github.com/Discord-InterChat/docs)!
 :::
 
@@ -32,7 +32,7 @@ To use our bot, you'll first need to invite it to your server. To do this, you'l
 2. Select the server you want to invite the bot to and click "Authorize."
 3. Follow any additional prompts to give the bot the necessary permissions.
 
-:::caution
+:::note
 It is recommended that you give InterChat **Manage Messages**, **Embed Links** and **Send Messages** permissions. If it doesn't have these permissions in the server, it will not be able to function properly and may cause issues later down the line.
 :::
 
