@@ -3,6 +3,7 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+require('dotenv/config');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -55,6 +56,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        appId: process.env.ALGOLIA_APP_ID,
+
+
+        apiKey: process.env.ALGOLIA_API_KEY,
+    
+    
+        indexName: 'discord-interchatio',
+      },
       colorMode: {
         disableSwitch: false,
         respectPrefersColorScheme: true,
