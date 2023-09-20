@@ -1,0 +1,9 @@
+{
+  "label": "Guide",
+  "collapsed": false,
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Welcome to InterChat, a bot that lets you connect with other servers and have conversations in hubs. This guide will make it easy for you to get started, whether you want to join hubs, create your own, or simply chat away."
+  }
+}
