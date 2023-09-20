@@ -1,7 +1,7 @@
 {
   "label": "Messaging",
   "position": 2,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index",
     "description": "Learn about sending messages in a Hub. And various actions you can take on messages."

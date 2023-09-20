@@ -43,8 +43,8 @@ That's it! It's time to set up InterChat on your server.
 
 ## Additional Resources
 - [DiscordBotList](https://discordbotlist.com/bots/chatbot) 🤖
-- [Discovery](https://discord.com/application-directory/769921109209907241) 🔍
+- [Invite](https://discord.com/application-directory/769921109209907241) 🔍
 - [Top.gg](https://top.gg/bot/769921109209907241) 📊
 - [Support Server](https://discord.gg/EY77XNP7q9) 🚀
-- [InterChat's Privacy Policy](../important/privacy.md) 🔒
-- [InterChat's Terms of Service](../important/terms.md) 📜
+- [InterChat's Privacy Policy](./important/privacy.md) 🔒
+- [InterChat's Terms of Service](./important/terms.md) 📜
