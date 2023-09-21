@@ -56,11 +56,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      algolia: {
-        appId: process.env.ALGOLIA_APP_ID,
-        apiKey: process.env.ALGOLIA_API_KEY,
-        indexName: 'discord-interchatio',
-      },
+      algolia: process.env.ALGOLIA_API_KEY
+          ? {
+            appId: process.env.ALGOLIA_APP_ID,
+            apiKey: process.env.ALGOLIA_API_KEY,
+            indexName: 'discord-interchatio',
+          } 
+          : undefined
+      ,
       colorMode: {
         disableSwitch: false,
         respectPrefersColorScheme: true,
