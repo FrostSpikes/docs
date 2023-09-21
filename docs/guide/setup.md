@@ -7,6 +7,7 @@ Setting up InterChat is a straightforward process that enables you to chat acros
 
 ### Discover and Join Hubs:
 To explore available public hubs, use the command `/hub browse`. Navigate using the arrows and locate a hub that interests you. Once you've found one, click 'Join,' then select your preferred channel. This will connect the channel to the hub! You also have the option to join Private hubs by using the command `/hub join <channel> <invite code>`."
+
 Learn more about joining a hub in the [Joining a Hub](./hub/joining.md) section.
 
 ### **Manage your Connections:**
