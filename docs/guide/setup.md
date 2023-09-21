@@ -33,3 +33,4 @@ Remember, you can only join one hub per channel. If you want to join a new hub i
 
 
 Now you're all set to chat seamlessly across different servers! 🚀
+
