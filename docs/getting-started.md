@@ -33,18 +33,24 @@ To add InterChat to your server, follow these quick steps:
    - Embed Links
 5. Lastly click "Authorize"
 
-That's it! It's time to set up InterChat on your server.
-
 ## Keywords
 
-**What are Hubs?** - Think of hubs as your personal chat spaces, both creatable and joinable. They're like your exclusive ship docks, where other servers can engage and chat within your server.
+### Hubs
 
-**Networks?** - A network is like a web of connected servers, all cross-linked together.
+Think of hubs as your personal chat spaces, both creatable and joinable. They're like an exclusive room, where other servers can join to engage and chat together.
+
+### Networks
+
+In comparision, a network is like a web of connected servers, all cross-linked to a hub.
 
 ## Additional Resources
-- [DiscordBotList](https://discordbotlist.com/bots/chatbot) 🤖
-- [Invite](https://discord.com/application-directory/769921109209907241) 🔍
-- [Top.gg](https://top.gg/bot/769921109209907241) 📊
-- [Support Server](https://discord.gg/EY77XNP7q9) 🚀
-- [InterChat's Privacy Policy](./important/privacy.md) 🔒
-- [InterChat's Terms of Service](./important/terms.md) 📜
+- [🤖 DiscordBotList](https://discordbotlist.com/bots/chatbot) 
+- [🔍 Invite](https://discord.com/application-directory/769921109209907241) 
+- [📊 Top.gg](https://top.gg/bot/769921109209907241)
+- [🚀 Support Server](https://discord.gg/EY77XNP7q9)
+- [🔒 InterChat's Privacy Policy](./important/privacy.md)
+- [📜 InterChat's Terms of Service](./important/terms.md)
+
+That's it! It's time to set up InterChat on your server.
+
+**✨ Next Up:** [Setting up InterChat.](./guide/setup.md)
