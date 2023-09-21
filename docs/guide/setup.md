@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Setup Up InterChat
+# Setup InterChat
 
 Setting up InterChat is easy and allows you to chat across different servers. Follow these steps to set up InterChat:
 
